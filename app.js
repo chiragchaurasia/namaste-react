@@ -10,7 +10,7 @@ const heading2 = React.createElement(
   {
     id: "title",
   },
-  "Heading 2"
+  "Namaste"
 );
 
 const container = React.createElement(
